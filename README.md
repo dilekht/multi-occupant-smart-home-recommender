@@ -363,7 +363,7 @@ Also cite the original works:
 ```bibtex
 @article{dilekh2024dynamic,
   title={Dynamic Context-Aware Recommender System for Home Automation},
-  author={Dilekh, Tarek and Ouhbi, Brahim},
+  author={Tahar Dilekh, Saber Benharzallah , Ayoub Mokeddem , Saoueb Kerdoudi },
   journal={Acta Informatica Pragensia},
   year={2024},
   doi={10.18267/j.aip.228}
