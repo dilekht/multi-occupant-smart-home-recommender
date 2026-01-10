@@ -344,7 +344,7 @@ conflict_resolution:
 If you use this code in your research, please cite:
 
 ```bibtex
-@article{author2026multioccupant,
+@article{dilekh2026multioccupant,
   title={Multi-Occupant Context-Aware Recommender System for Smart Home 
          Automation: An Extended FP-Growth and GLM Approach with 
          Conflict Resolution},
