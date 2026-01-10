@@ -169,7 +169,7 @@ multi-occupant-smart-home-recommender/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/multi-occupant-smart-home-recommender.git
+git clone https://github.com/dielkht/multi-occupant-smart-home-recommender.git
 cd multi-occupant-smart-home-recommender
 
 # Create virtual environment (recommended)
@@ -349,7 +349,7 @@ If you use this code in your research, please cite:
          Automation: An Extended FP-Growth and GLM Approach with 
          Conflict Resolution},
   author={Author, First and Author, Second},
-  journal={Expert Systems with Applications},
+  journal={},
   volume={XXX},
   pages={XXX--XXX},
   year={2026},
@@ -393,8 +393,8 @@ Contributions are welcome! Please read [CONTRIBUTING.md](docs/CONTRIBUTING.md) f
 
 ## 📧 Contact
 
-- **Author**: [Your Name](mailto:your.email@university.edu)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/multi-occupant-smart-home-recommender/issues)
+- **Author**: [Your Name](mailto:tahar.dilekh@univ-batna2.dz)
+- **Issues**: [GitHub Issues](https://github.com/dilekht/multi-occupant-smart-home-recommender/issues)
 
 ## 🙏 Acknowledgments
 
