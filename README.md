@@ -399,7 +399,7 @@ Contributions are welcome! Please read [CONTRIBUTING.md](docs/CONTRIBUTING.md) f
 ## 🙏 Acknowledgments
 
 - ARAS dataset creators at Boğaziçi University
-- Dilekh & Ouhbi for the original FP-Growth + GLM methodology
+- Dilekh and al. for the original FP-Growth + GLM methodology
 - scikit-learn and mlxtend development teams
 
 ---
