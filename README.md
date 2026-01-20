@@ -348,13 +348,13 @@ If you use this code in your research, please cite:
   title={Multi-Occupant Context-Aware Recommender System for Smart Home 
          Automation: An Extended FP-Growth and GLM Approach with 
          Conflict Resolution},
-  author={Author, First and Author, Second},
+  author={tahar dilekh, adel abdelhadi, ayoub mokeddem},
   journal={},
   volume={XXX},
   pages={XXX--XXX},
   year={2026},
-  publisher={Elsevier},
-  doi={10.1016/j.eswa.2026.XXXXX}
+  publisher={Sp},
+  doi={10.1016/j.datak.2026.XXXXX}
 }
 ```
 
